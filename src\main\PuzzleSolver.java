@@ -7,6 +7,7 @@ import java.util.List;
 
 import vo.PuzzleCondition;
 import vo.PuzzleProblem;
+import vo.PuzzleResult;
 import vo.PuzzleSurface;
 
 /**
@@ -46,6 +47,7 @@ public class PuzzleSolver {
         }
       }
 
+      System.out.println("最終結果：" + result.getMessage());
       fileClose();
     } catch (IOException e) {
       e.printStackTrace();
