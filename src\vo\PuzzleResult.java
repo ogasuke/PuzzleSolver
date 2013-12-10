@@ -1,4 +1,4 @@
-package main;
+package vo;
 
 /**
  * パズルの結果を表現します。
