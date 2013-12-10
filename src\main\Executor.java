@@ -1,7 +1,7 @@
 package main;
 
 
-public class Executor {
+public class PuzzleExecutor {
 
   /**
    * @param args
