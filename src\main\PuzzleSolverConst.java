@@ -4,7 +4,7 @@ package main;
  * パズル解読で使用する定数を定義します。
  * @author ogasawara
  */
-public class PazzleSolverConst {
+public class PuzzleSolverConst {
   //  protected static final String PAZZLE_FILE_NAME = "ProblemPuzzle.csv";
   //  protected static final String RESULT_FILE_NAME = "c:\\result.txt";
 
